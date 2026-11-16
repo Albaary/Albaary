@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Albaary+%F0%9F%91%8B;Data+Science+Student+%7C+Data+Analyst+%26+BI;I+turn+messy+data+into+decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Albaary;Data+Science+Student+%7C+Data+Analyst+%26+BI;I+turn+messy+data+into+decisions" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Universitas_Negeri_Surabaya-Data_Science-1f6feb?style=for-the-badge" />
@@ -18,19 +18,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Data Science undergraduate at **Universitas Negeri Surabaya** (2024 - 2028, expected) who likes the full journey of data: collecting it, cleaning it, modeling it, and presenting it in a way people actually use.
 
-- 🎓 Currently in the **Celerates Acceleration Mastery Program (Batch 5), Data Analyst & Business Intelligence**
-- 🏗️ I build dashboards, data warehouses, and ML models, not just notebooks
-- 📊 I manage real data for a real school, with **200+ entries coming in every day**
-- 🤝 I've worked in teams of 3 to 4 on machine learning and data warehouse projects
-- 🎯 **Looking for:** Data Analyst / BI / Data Science internship or entry-level roles
+- Currently in the **Celerates Acceleration Mastery Program (Batch 5), Data Analyst & Business Intelligence**
+- I build dashboards, data warehouses, and ML models, not just notebooks
+- I manage real data for a real school, with **200+ entries coming in every day**
+- I've worked in teams of 3 to 4 on machine learning and data warehouse projects
+- **Looking for:** Data Analyst / BI / Data Science internship or entry-level roles
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -55,30 +55,30 @@ I'm a Data Science undergraduate at **Universitas Negeri Surabaya** (2024 - 2028
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 👁️ Glaucoma Detection from Retinal Fundus Images
+### Glaucoma Detection from Retinal Fundus Images
 **Machine Learning · Python · Team of 3**
 Built a classification pipeline to detect glaucoma from retinal fundus images.
-🔗 [View repository](https://github.com/Albaary/Project-Machine-Learning)
+[View repository](https://github.com/Albaary/Project-Machine-Learning)
 
-### 🏬 Olist E-Commerce Data Warehouse
+### Olist E-Commerce Data Warehouse
 **Data Warehouse · ETL · OLAP · Team of 4**
 Designed a star schema with data marts, built the ETL process, and explored the data through Atoti OLAP using the Olist e-commerce dataset.
-🔗 [View repository](https://github.com/Albaary/YOUR-DW-REPO)
+[View repository](https://github.com/Albaary/YOUR-DW-REPO)
 
-### 🔄 Pentaho Mini Project (Academic Mobility)
+### Pentaho Mini Project (Academic Mobility)
 **ETL · Pentaho · Team project**
 Structured a team repository and exported the Pentaho repository for a collaborative data integration project.
-🔗 [View repository](https://github.com/Albaary/YOUR-PENTAHO-REPO)
+[View repository](https://github.com/Albaary/YOUR-PENTAHO-REPO)
 
-### 📈 Real-Time School Dashboard (Looker Studio)
+### Real-Time School Dashboard (Looker Studio)
 **BI · Google Workspace · Automation**
 Built a live dashboard that updates from 200+ daily entries, plus an automated Google Form that opens and closes on a schedule using Apps Script time-driven triggers.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certificate | Issuer | Year |
 |---|---|---|
@@ -88,17 +88,17 @@ Built a live dashboard that updates from 200+ daily entries, plus an automated G
 
 ---
 
-## 🌱 Beyond the Code
+## Beyond the Code
 
-- 🏓 Secretary of **UKM Tenis Meja Unesa**: event proposals, registration forms, cross-division coordination
-- 🎪 Secretary Committee at **Difest 6th**, an event with hundreds of participants
-- 📖 Teacher and data administrator at a TPQ
+- Secretary of **UKM Tenis Meja Unesa**: event proposals, registration forms, cross-division coordination
+- Secretary Committee at **Difest 6th**, an event with hundreds of participants
+- Teacher and data administrator at a TPQ
 
 These roles taught me to communicate clearly, keep records tidy, and deliver on deadlines, which matters as much in analytics as in any technical skill.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Albaary&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -111,11 +111,11 @@ These roles taught me to communicate clearly, keep records tidy, and deliver on 
 
 ---
 
-## 📫 Let's Work Together
+## Let's Work Together
 
 I'm open to internships and entry-level opportunities in **data analytics, business intelligence, and data science**.
 
-📧 YOUR-EMAIL@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · 📄 [CV](YOUR-CV-LINK)
+YOUR-EMAIL@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [CV](YOUR-CV-LINK)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
