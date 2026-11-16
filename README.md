@@ -9,8 +9,8 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/albaaryputra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:albaaryputra@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="YOUR-CV-LINK"><img src="https://img.shields.io/badge/Download-CV-111111?style=flat-square&logo=readthedocs&logoColor=white" /></a>
 </p>
 
@@ -124,7 +124,7 @@ These roles taught me to communicate clearly, keep records tidy, and deliver on 
 
 I'm open to internships and entry-level opportunities in **data analytics, business intelligence, and data science**.
 
-YOUR-EMAIL@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [CV](YOUR-CV-LINK)
+albaaryputra@gmail.com · [LinkedIn](https://www.linkedin.com/in/albaaryputra) · [CV](YOUR-CV-LINK)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
