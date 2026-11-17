@@ -79,12 +79,12 @@ Built a classification pipeline to detect glaucoma from retinal fundus images.
 ### Olist E-Commerce Data Warehouse
 **Data Warehouse · ETL · OLAP · Team of 4**
 Designed a star schema with data marts, built the ETL process, and explored the data through Atoti OLAP using the Olist e-commerce dataset.
-[View repository](https://github.com/Albaary/YOUR-DW-REPO)
+[View repository](https://github.com/Albaary/olist-dwh-olap.git)
 
 ### Pentaho Mini Project (Academic Mobility)
 **ETL · Pentaho · Team project**
 Structured a team repository and exported the Pentaho repository for a collaborative data integration project.
-[View repository](https://github.com/Albaary/YOUR-PENTAHO-REPO)
+[View repository](https://github.com/Albaary/chinook-dwh-etl-pentaho.git)
 
 ### Real-Time School Dashboard (Looker Studio)
 **BI · Google Workspace · Automation**
