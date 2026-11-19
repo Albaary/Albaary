@@ -11,7 +11,7 @@
 <p>
   <a href="https://www.linkedin.com/in/albaaryputra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:albaaryputra@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="CV-albaary.pdf"><img src="https://img.shields.io/badge/Download-CV-111111?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/albaary/albaary/main/CV-albaary.pdf"><img src="https://img.shields.io/badge/Download-CV-111111?style=flat-square&logo=readthedocs&logoColor=white" /></a>
 </p>
 
 </div>
@@ -124,7 +124,7 @@ These roles taught me to communicate clearly, keep records tidy, and deliver on 
 
 I'm open to internships and entry-level opportunities in **data analytics, business intelligence, and data science**.
 
-albaaryputra@gmail.com · [LinkedIn](https://www.linkedin.com/in/albaaryputra) · [CV](YOUR-CV-LINK)
+albaaryputra@gmail.com · [LinkedIn](https://www.linkedin.com/in/albaaryputra) · [CV](CV-albaary.pdf)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
