@@ -5,13 +5,13 @@
 <p>
   <img src="https://img.shields.io/badge/Universitas_Negeri_Surabaya-Data_Science-1f6feb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_to-Internship_%26_Entry--Level-2ea043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based_in-Surabaya,_Indonesia-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based_in-Sidoarjo,_Indonesia-orange?style=for-the-badge" />
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/albaaryputra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:albaaryputra@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR-CV-LINK"><img src="https://img.shields.io/badge/Download-CV-111111?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <a href="CV-albaary.pdf"><img src="https://img.shields.io/badge/Download-CV-111111?style=flat-square&logo=readthedocs&logoColor=white" /></a>
 </p>
 
 </div>
